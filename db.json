@@ -1,0 +1,54 @@
+{
+  "todos": [
+    {
+      "status": false,
+      "title": "Learn use effect",
+      "id": 1
+    },
+    {
+      "status": false,
+      "title": "Learn typeScript",
+      "id": 2
+    },
+    {
+      "status": false,
+      "title": "Learn Storage in React",
+      "id": 3
+    },
+    {
+      "status": false,
+      "title": "have tea",
+      "id": 4
+    },
+    {
+      "status": false,
+      "title": "Play Chess",
+      "id": 5
+    },
+    {
+      "status": false,
+      "title": "Next js",
+      "id": 6
+    },
+    {
+      "status": false,
+      "title": "Kudos to the Spanish",
+      "id": 7
+    },
+    {
+      "status": false,
+      "title": "agroforestry is not just pushed by the ministries of environment ",
+      "id": 8
+    },
+    {
+      "status": false,
+      "title": "Iceland stops whaling.",
+      "id": 9
+    },
+    {
+      "status": false,
+      "title": "Investing in currency , which has no underline asset is like giving loan without paperwork",
+      "id": 10
+    }
+  ]
+}
